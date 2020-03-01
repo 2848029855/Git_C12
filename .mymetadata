@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Git_C12"
+  id="myeclipse.1583071568819"
+  context-root="/Git_C12"
+  j2ee-spec="5.0"
+  archive="Git_C12.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
